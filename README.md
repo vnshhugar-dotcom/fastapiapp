@@ -1,3 +1,5 @@
 # fastapiapp
 
-## creating fastapi application
+## creating fastapi applicationen
+
+#CRUD operations
